@@ -28,7 +28,7 @@ Before running the script, ensure the following are installed on your system:
 
 ### Clone or Download the Script
 
-1. Download the script file `subset_graph.py` to your local machine.
+1. Download the script file `subset.py` to your local machine.
 2. Save it in a directory you can access from the terminal.
 
 ---
