@@ -1,6 +1,6 @@
 # Subset Graph Visualization
 
-This project generates a subset graph for a given list of elements and visualizes it. The graph uses directed edges to represent the relationships between subsets, and the empty set is displayed using the mathematical symbol \( \emptyset \).
+This project generates a subset graph for a given list of elements and visualizes it. The graph uses directed edges to represent the relationships between subsets, and the empty set is displayed using the mathematical symbol (∅).
 
 ---
 
@@ -8,7 +8,7 @@ This project generates a subset graph for a given list of elements and visualize
 
 - Generates subsets for a given set of elements.
 - Creates a directed graph illustrating subset relationships.
-- Uses \( \emptyset \) to represent the empty set.
+- Uses "∅" to represent the empty set.
 - Visualizes the graph with `networkx` and `matplotlib`.
 
 ---
