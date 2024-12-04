@@ -45,6 +45,19 @@ pip install networkx matplotlib
 1. Navigate to the path where the script is saved
 cd /path/to/your/script
 
+## Usage
+
+### Customize Input
+
+The script uses `[1, 2, 3]` as the default input. To try a different input:
+
+1. Open the `subset.py` file in any text editor.
+2. Navigate to **line 55**, where the input list is defined:
+   ```python
+   elements = [1, 2, 3]  # input elements
+   ```
+   Note: The graph can get very messy for big inputs.
+
 2. Run the script
 python subset.py
 
