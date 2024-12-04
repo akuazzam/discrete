@@ -61,4 +61,28 @@ The script uses `[1, 2, 3]` as the default input. To try a different input:
 2. Run the script
 python subset.py
 
+# Pascal's Triangle Generator
+
+This program generates and displays Pascal's Triangle up to a specified number of rows. Pascal's Triangle is a mathematical concept used to represent coefficients in the binomial expansion and to compute combinations (`n choose k`).
+
+## Features
+- Generates Pascal's Triangle up to any number of rows.
+- Displays the triangle in a visually centered format for better readability.
+- Includes explanations for Pascal's Triangle and its mathematical significance.
+
+## Prerequisites
+- Python 3.x installed on your machine.
+
+## How to Run the Program
+
+1. Clone or download this repository to your local machine.
+
+2. Navigate to the folder where the script is located.
+
+3. Run the program using Python:
+
+   ```bash
+   python pascals_triangle.py
+
+
 
