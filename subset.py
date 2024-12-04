@@ -48,7 +48,6 @@ def visualize_graph(graph):
     
     plt.title("Subset Graph Visualization", fontsize=14)
     plt.show()
-    
 
 # Main script
 if __name__ == "__main__":
